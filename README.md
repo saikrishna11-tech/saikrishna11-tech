@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saikrishna11-tech
 - 👀 I’m interested in Web development and Data scientist
-- 🌱 I’m currently learning java and aws coureses
+- 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on web development and research programs
 - 📫 How to reach me -> contact to my mail:-saikrishnapulicharla7@gmail.com
 - 😄 Pronouns: ...
